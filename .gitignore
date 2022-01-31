@@ -1,0 +1,4 @@
+.env
+*.pem
+*.crx
+*.exe
