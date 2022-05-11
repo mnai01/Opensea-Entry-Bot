@@ -2,9 +2,13 @@
 
 This automation tool is used to upload NFTs based on a json schema object that is created in my "video to barcode" project repo found [HERE](https://github.com/mnai01/Barcode-Gallery-Converter)
 
-#### Demo of automation upload an item
+## Demo of automation process
 
 ![Demo Gif](./OpenSea-Upload-Automation.gif 'Demo Gif')
+
+## Fill in .env
+
+.env.example can be changed to .env and you must fill in the appropiate information to login to meta mask
 
 ## Find Chrome Extension
 
